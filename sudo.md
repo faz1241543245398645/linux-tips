@@ -7,5 +7,5 @@ $ sudo visudo
 
 Put this line in and save changes
 ```
-hostname ALL=(ALL) NOPASSWD: ALL
+$ hostname ALL=(ALL) NOPASSWD: ALL
 ```
